@@ -1,1 +1,1 @@
-# Datascience_qt
+# python projects.ds
